@@ -1,0 +1,12 @@
+
+#node
+node_modules
+
+#ide
+.idea
+*.iml
+
+#ai
+.claude
+# Runtime data store - regenerated on first write, must not be committed.
+data-store.json
