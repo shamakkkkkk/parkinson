@@ -7,8 +7,9 @@ disease. Experimenters use it to register participants, run structured
 recording sessions, and review the resulting sensor data.
 
 **Author:** Shamil Mustafin
-[LinkedIn](#) · [GitHub](#) · [Email](#)
-*(add your links here)*
+
+**Email:** [shamil.mustafin.main@gmail.com](mailto:shamil.mustafin.main@gmail.com)
+
 
 ---
 
